@@ -3,4 +3,4 @@ def oxford_comma(array)
   array[-1]
 end
 
-puts
+puts oxford_comma(["fire", "bird", "cat", "chicken"])
